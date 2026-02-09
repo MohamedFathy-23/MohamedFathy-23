@@ -1,10 +1,12 @@
 # Hi, I'm Mohamed 👋
 
-## 💻 Software Engineering Student | .NET Web Developer | Machine Learning Enthusiast
+## 💻 Software Engineer | AI & Data Science Enthusiast | .NET Web Developer
+
+![Header](https://github.com/MohamedFathy-23/MohamedFathy-23/assets/123456789/header-banner.png)
 
 ---
 
-### 🛠 Things I Work With
+### 🛠 My Tech Stack
 ![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B)
 ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
@@ -17,13 +19,21 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion)
 
 ---
 
-### 🌐 Find Me On
+### 🤖 AI & Data Science
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-F58025?style=for-the-badge&logo=matplotlib)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
+
+---
+
+### 🌐 Connect with Me
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/MohamedFathy-23)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YourLinkedIn)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:youremail@example.com)
@@ -31,12 +41,21 @@
 ---
 
 ### 👨‍💻 About Me
-I’m Mohamed, a software engineering student with a **backend-first mindset**, turning ideas into working solutions.  
-I focus on **.NET, Python, Machine Learning**, and building **real-world applications**.  
-I value **clean code, scalable systems, and problem-solving** with impact.
+I’m Mohamed, a **Software Engineering student** passionate about **AI, Machine Learning, and Data Science**.  
+I create **backend solutions, predictive models, and data-driven applications** to solve real-world problems.  
+
+💡 **Focus Areas:**  
+- Machine Learning & Deep Learning  
+- Data Analysis & Visualization  
+- .NET Web Development & Backend Systems  
 
 ---
 
 ### 📈 GitHub Stats
 ![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohamedFathy-23&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedFathy-23&layout=compact)
+
+---
+
+### ⚡ Fun Fact
+“Turning ideas into code, and data into insights.”
